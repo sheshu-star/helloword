@@ -1,8 +1,8 @@
-#academics
+# academics
 
-#project & internships
+# project & internships
 
-#technical skills
+# technical skills
 
-#contact
+# contact
 
